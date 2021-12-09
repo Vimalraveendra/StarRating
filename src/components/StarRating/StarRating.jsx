@@ -14,9 +14,7 @@ const starRating= ()=>{
                 value={ratingValue}
                
                 />
-                  <span 
-                     
-                      >&#9733;</span>
+                  <span className="star">&#9733;</span>
            </label>
 
       
