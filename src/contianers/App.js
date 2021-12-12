@@ -2,7 +2,7 @@
 import './App.css';
 import StarRating from '../components/StarRating/StarRating';
 
-function App() {
+const  App=()=> {
   return (
     <div className="App">
       <h1>Star Rating</h1>
