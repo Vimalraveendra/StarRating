@@ -1,5 +1,6 @@
 .star {
   cursor: pointer;
+  font-size: 2.5rem;
 }
 .star:hover {
   color: #000;
@@ -11,4 +12,7 @@
 .off {
   color: #ccc;
   font-size: 23px;
+}
+input[type="radio"] {
+  display: none;
 }
