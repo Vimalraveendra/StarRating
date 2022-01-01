@@ -1,6 +1,7 @@
 import "./StarRating.css"
 
 const starRating= ()=>{
+
   return(
     <div className="star-container">
     {
