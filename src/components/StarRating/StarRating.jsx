@@ -14,7 +14,7 @@ const starRating= ()=>{
                 value={ratingValue}
                
                 />
-                  <span className="star">&#9733;</span>
+                  <span className={`star ${ratingValue<=index?"on":"off  "}`}>&#9733;</span>
            </label>
 
       
